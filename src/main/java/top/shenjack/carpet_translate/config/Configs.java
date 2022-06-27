@@ -1,7 +1,7 @@
-package com.plusls.template_mod.config;
+package top.shenjack.carpet_translate.config;
 
-import com.plusls.template_mod.TemplateMod;
-import com.plusls.template_mod.gui.GuiConfigs;
+import top.shenjack.carpet_translate.TemplateMod;
+import top.shenjack.carpet_translate.gui.GuiConfigs;
 import fi.dy.masa.malilib.config.options.ConfigHotkey;
 import net.minecraft.client.Minecraft;
 import org.apache.logging.log4j.Level;

@@ -1,7 +1,7 @@
-package com.plusls.template_mod.compat.modmenu;
+package top.shenjack.carpet_translate.compat.modmenu;
 
-import com.plusls.template_mod.TemplateMod;
-import com.plusls.template_mod.gui.GuiConfigs;
+import top.shenjack.carpet_translate.TemplateMod;
+import top.shenjack.carpet_translate.gui.GuiConfigs;
 import top.hendrixshen.magiclib.compat.modmenu.ModMenuCompatApi;
 
 public class ModMenuApiImpl implements ModMenuCompatApi {

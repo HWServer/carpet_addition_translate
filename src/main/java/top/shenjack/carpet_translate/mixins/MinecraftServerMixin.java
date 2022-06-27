@@ -1,4 +1,4 @@
-package com.plusls.template_mod.mixins;
+package top.shenjack.carpet_translate.mixins;
 
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.server.MinecraftServer;

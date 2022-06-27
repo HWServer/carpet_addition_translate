@@ -1,6 +1,6 @@
-package com.plusls.template_mod.compat.modmenu;
+package top.shenjack.carpet_translate.compat.modmenu;
 
-import com.plusls.template_mod.TemplateMod;
+import top.shenjack.carpet_translate.TemplateMod;
 
 public class WrapperModMenuApiImpl extends ModMenuApiImpl {
 

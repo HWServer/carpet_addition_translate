@@ -1,6 +1,6 @@
-package com.plusls.template_mod;
+package top.shenjack.carpet_translate;
 
-import com.plusls.template_mod.config.Configs;
+import top.shenjack.carpet_translate.config.Configs;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.loader.api.FabricLoader;

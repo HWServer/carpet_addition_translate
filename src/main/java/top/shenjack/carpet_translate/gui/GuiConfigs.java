@@ -1,7 +1,7 @@
-package com.plusls.template_mod.gui;
+package top.shenjack.carpet_translate.gui;
 
-import com.plusls.template_mod.TemplateMod;
-import com.plusls.template_mod.config.Configs;
+import top.shenjack.carpet_translate.TemplateMod;
+import top.shenjack.carpet_translate.config.Configs;
 import top.hendrixshen.magiclib.config.ConfigManager;
 import top.hendrixshen.magiclib.gui.ConfigGui;
 

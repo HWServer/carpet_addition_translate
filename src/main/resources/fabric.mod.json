@@ -17,13 +17,13 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.plusls.template_mod.TemplateMod"
+      "top.shenjack.carpet_translate.TemplateMod"
     ],
     "client": [
-      "com.plusls.template_mod.TemplateMod"
+      "top.shenjack.carpet_translate.TemplateMod"
     ],
     "modmenu": [
-      "com.plusls.template_mod.compat.modmenu.ModMenuApiImpl"
+      "top.shenjack.carpet_translate.compat.modmenu.ModMenuApiImpl"
     ]
   },
   "mixins": [
