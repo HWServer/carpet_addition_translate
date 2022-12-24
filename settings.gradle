@@ -2,6 +2,10 @@ pluginManagement {
     repositories {
         maven {
             name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        maven {
+            name = 'Fabric-bmcl'
             url = 'https://bmclapi2.bangbang93.com/maven'
         }
         maven {
@@ -32,6 +36,7 @@ def versions = Arrays.asList(
         "1.16.5",
         "1.17.1",
         "1.18.2",
+        "1.19.2",
         "snapshot",
 )
 for (String version : versions) {
