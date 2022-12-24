@@ -2,7 +2,7 @@ pluginManagement {
     repositories {
         maven {
             name = 'Fabric'
-            url = 'https://maven.fabricmc.net/'
+            url = 'https://bmclapi2.bangbang93.com/maven'
         }
         maven {
             name = 'Jitpack'
